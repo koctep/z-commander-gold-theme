@@ -7,7 +7,7 @@
       "name": "Commander Gold",
       "appearance": "dark",
       "style": {
-        "accents": ["#d8d8d8", "#55ffff", "#55ff55", "#ff77cc", "#ffffff"],
+        "accents": ["#d8d8d8", "#55ffff", "#55bb33", "#c06cff", "#ffffff"],
         "background": "#000096",
         "background.appearance": "opaque",
         "border": "#5577cc",
@@ -39,9 +39,9 @@
         "element.hover": "#1733c4",
         "element.selected": "#1030cc",
         "elevated_surface.background": "#00158f",
-        "error": "#ff77cc",
-        "error.background": "#4a1030",
-        "error.border": "#ff77cc",
+        "error": "#c06cff",
+        "error.background": "#2c183f",
+        "error.border": "#c06cff",
         "ghost_element.active": "#1026ba",
         "ghost_element.background": "#000096",
         "ghost_element.disabled": "#00008b",
@@ -72,16 +72,16 @@
         "scrollbar.track.border": "#1f39c9",
         "search.match_background": "#665500",
         "status_bar.background": "#00008b",
-        "success": "#55ff55",
+        "success": "#55bb33",
         "success.background": "#005500",
-        "success.border": "#55ff55",
+        "success.border": "#55bb33",
         "surface.background": "#00008b",
         "syntax": {
           "attribute": {
             "color": "#55ffff"
           },
           "boolean": {
-            "color": "#ff77cc",
+            "color": "#c06cff",
             "font_weight": 700
           },
           "comment": {
@@ -97,7 +97,7 @@
             "font_weight": 700
           },
           "constructor": {
-            "color": "#ffd75f",
+            "color": "#d8d8d8",
             "font_weight": 700
           },
           "embedded": {
@@ -110,7 +110,7 @@
             "color": "#55ffff"
           },
           "function": {
-            "color": "#ffd75f",
+            "color": "#d8d8d8",
             "font_weight": 700
           },
           "keyword": {
@@ -128,7 +128,7 @@
             "color": "#8fefff"
           },
           "number": {
-            "color": "#ff77cc"
+            "color": "#c06cff"
           },
           "operator": {
             "color": "#ffffff"
@@ -155,7 +155,7 @@
             "color": "#55ffff"
           },
           "string": {
-            "color": "#55ff55"
+            "color": "#55bb33"
           },
           "string.escape": {
             "color": "#8fefff"
@@ -171,10 +171,10 @@
             "font_weight": 700
           },
           "text.literal": {
-            "color": "#55ff55"
+            "color": "#55bb33"
           },
           "title": {
-            "color": "#ffd75f",
+            "color": "#d8d8d8",
             "font_weight": 700
           },
           "type": {
@@ -189,7 +189,7 @@
             "font_weight": 700
           },
           "variant": {
-            "color": "#ffd75f"
+            "color": "#d8d8d8"
           }
         },
         "tab.active_background": "#001a9e",
@@ -201,23 +201,23 @@
         "terminal.ansi.bright_black": "#555555",
         "terminal.ansi.bright_blue": "#5577ff",
         "terminal.ansi.bright_cyan": "#55ffff",
-        "terminal.ansi.bright_green": "#55ff55",
+        "terminal.ansi.bright_green": "#55bb33",
         "terminal.ansi.bright_magenta": "#ff55ff",
-        "terminal.ansi.bright_red": "#ff77cc",
+        "terminal.ansi.bright_red": "#c06cff",
         "terminal.ansi.bright_white": "#ffffff",
         "terminal.ansi.bright_yellow": "#d8d8d8",
         "terminal.ansi.cyan": "#00aaaa",
         "terminal.ansi.dim_black": "#111111",
         "terminal.ansi.dim_blue": "#00007a",
         "terminal.ansi.dim_cyan": "#007a7a",
-        "terminal.ansi.dim_green": "#007a00",
+        "terminal.ansi.dim_green": "#2f5a1f",
         "terminal.ansi.dim_magenta": "#7a007a",
-        "terminal.ansi.dim_red": "#7a3b5c",
+        "terminal.ansi.dim_red": "#4b2d63",
         "terminal.ansi.dim_white": "#a0a0a0",
         "terminal.ansi.dim_yellow": "#7a6500",
-        "terminal.ansi.green": "#00aa00",
+        "terminal.ansi.green": "#3f7f28",
         "terminal.ansi.magenta": "#aa00aa",
-        "terminal.ansi.red": "#cc5599",
+        "terminal.ansi.red": "#9a56cc",
         "terminal.ansi.white": "#aaaaaa",
         "terminal.ansi.yellow": "#aa6500",
         "terminal.background": "#000096",
