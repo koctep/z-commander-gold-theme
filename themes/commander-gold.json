@@ -124,7 +124,7 @@
             "color": "#8fefff"
           },
           "number": {
-            "color": "#9a56cc"
+            "color": "#f05cff"
           },
           "operator": {
             "color": "#ffffff"
@@ -214,8 +214,8 @@
         "terminal.ansi.white": "#aaaaaa",
         "terminal.ansi.yellow": "#aa6500",
         "terminal.background": "#000096",
-        "terminal.bright_foreground": "#c06cff",
-        "terminal.dim_foreground": "#9a56cc",
+        "terminal.bright_foreground": "#ff7cff",
+        "terminal.dim_foreground": "#f05cff",
         "terminal.foreground": "#d8d8d8",
         "text": "#d8d8d8",
         "text.accent": "#55ffff",
@@ -225,9 +225,9 @@
         "title_bar.background": "#00008b",
         "title_bar.inactive_background": "#000066",
         "toolbar.background": "#00008b",
-        "warning": "#c06cff",
-        "warning.background": "#2c183f",
-        "warning.border": "#c06cff"
+        "warning": "#ff7cff",
+        "warning.background": "#6a2a6f",
+        "warning.border": "#ff7cff"
       }
     }
   ]
