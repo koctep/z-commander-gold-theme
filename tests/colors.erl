@@ -14,6 +14,9 @@ format_sample(_Name, _Retries) ->
 
 sample() ->
     Name = <<"Commander Gold">>,
+    receive
+        _Msg -> ok
+    end,
     Retries = 3,
     Active = true,
     #{name => Name, retries => Retries, active => Active, result => format_sample(Name, Retries)}.

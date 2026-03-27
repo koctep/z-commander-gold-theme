@@ -111,7 +111,7 @@
           },
           "keyword": {
             "color": "#55ffff",
-            "font_weight": 700
+            "font_weight": 500
           },
           "label": {
             "color": "#ffffff"
@@ -173,7 +173,7 @@
           },
           "type": {
             "color": "#55ffff",
-            "font_weight": 700
+            "font_weight": 500
           },
           "variable": {
             "color": "#FFFF00"
