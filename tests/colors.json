@@ -1,0 +1,15 @@
+{
+  "name": "Commander Gold",
+  "version": 1,
+  "active": true,
+  "opacity": 0.85,
+  "retry_count": 3,
+  "hex_value": 255,
+  "tags": ["theme", "zed", "retro"],
+  "colors": {
+    "background": "#000096",
+    "text": "#d8d8d8",
+    "number": "#9a56cc",
+    "accent": "#55ffff"
+  }
+}
