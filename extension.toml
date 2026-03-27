@@ -1,0 +1,7 @@
+id = "commander-gold-theme"
+name = "Commander Gold Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ilya Ashchepkov"]
+description = "A Zed theme inspired by Norton Commander, Midnight Commander, and Borland editors: deep blue surfaces with gold text."
+repository = "https://github.com/koctep/z-commander-gold-theme"
